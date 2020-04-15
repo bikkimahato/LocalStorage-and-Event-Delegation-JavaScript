@@ -1,0 +1,23 @@
+{
+  "name": "localstorage-eventdelegation",
+  "version": "1.0.0",
+  "description": "LocalStorage and Event Delegation with JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/LocalStorage-and-Event-Delegation-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/LocalStorage-and-Event-Delegation-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/LocalStorage-and-Event-Delegation-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
